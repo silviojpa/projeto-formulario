@@ -24,7 +24,7 @@ O objetivo é criar um formulário de contato simples onde o usuário pode envia
 * **Nginx:** Servidor web para servir os arquivos estáticos do frontend.
 
 ## Estrutura do Projeto
-
+````
 /meu-projeto-formulario
 ├── /frontend
 │   ├── index.html
@@ -37,7 +37,7 @@ O objetivo é criar um formulário de contato simples onde o usuário pode envia
 ├── docker-compose.yml
 ├── Dockerfile.frontend
 └── Dockerfile.backend
-
+````
 
 ## Como Rodar o Projeto
 
